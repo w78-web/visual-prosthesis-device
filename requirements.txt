@@ -1,0 +1,48 @@
+# Core Dependencies
+Flask==2.3.2
+Flask-SQLAlchemy==3.0.5
+Flask-CORS==4.0.0
+Flask-Login==0.6.2
+
+# Data Processing and Image Processing
+NumPy==1.24.3
+SciPy==1.11.1
+OpenCV-Python==4.8.0.74
+Pandas==2.0.3
+
+# Real-time Communication
+python-socketio==5.9.0
+python-engineio==4.7.1
+paho-mqtt==1.6.1
+
+# Hardware Communication
+pyserial==3.5
+bleak==0.21.1
+pygatt==4.0.5
+
+# Database
+SQLAlchemy==2.0.20
+PyMySQL==1.1.0
+
+# Web Framework
+Werkzeug==2.3.6
+Jinja2==3.1.2
+
+# Utilities
+requests==2.31.0
+python-dotenv==1.0.0
+click==8.1.6
+
+# Development and Testing
+pytest==7.4.0
+pytest-cov==4.1.0
+black==23.7.0
+flake8==6.0.0
+
+# Visualization and Monitoring
+matplotlib==3.7.2
+plotly==5.16.1
+
+# Additional Utilities
+Pillow==10.0.0
+loguru==0.7.0
